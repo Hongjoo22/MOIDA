@@ -5,14 +5,14 @@
 
 <img src="/src/res/img/landingpage2.gif"  />
 
-## Stack
+## 🖥️Stack
 
 * Front-end : React
 * Back-end : Node.js
 * DB : MySQL
 * AWS : RDS
 
-## Built With
+## 🧑🏻‍💻Built With
 * 이홍주(Back-end)
   * DB(MySQL) 연동 및 관리
   * DB(MySQL) 설계
@@ -37,5 +37,5 @@
   * 마이페이지 구현
   * 챌린지찾기 구현
   * 인기챌린지카드 및 신청팝업 구현
-## Prize
+## 🏆️Prize
 장려상
