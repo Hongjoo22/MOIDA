@@ -37,5 +37,15 @@
   * 마이페이지 구현
   * 챌린지찾기 구현
   * 인기챌린지카드 및 신청팝업 구현
+
+## 화면 상세 페이지
+![image](https://user-images.githubusercontent.com/65024497/174794241-f82ea8de-4c74-41dd-8450-d46a2fe616c0.png)
+![image](https://user-images.githubusercontent.com/65024497/174794299-75b296d4-deba-4a61-80d8-06a1c4babc9e.png)
+![image](https://user-images.githubusercontent.com/65024497/174794423-b6b79d5a-4790-4f0c-be96-57917c332231.png)
+![image](https://user-images.githubusercontent.com/65024497/174794449-4df30a29-b54a-49c3-b28c-86ed4aadbb19.png)
+![image](https://user-images.githubusercontent.com/65024497/174794467-3be55910-95cf-4937-b7d8-b2c2481d8591.png)
+![image](https://user-images.githubusercontent.com/65024497/174794481-76f7b369-9492-48e6-9ee0-beea697ffe58.png)
+
+
 ## 🏆️Prize
 장려상
